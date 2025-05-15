@@ -54,35 +54,9 @@ A Full-Stack MERN-based Telemedicine Web App with Mobile Responsiveness, Secure 
 - MongoDB Atlas
 - Razorpay & Cloudinary API Keys
 
-### 🔧 Backend Setup
+### Backend Setup
 ```bash
 cd backend
-npm run server
+npm install
 cp .env.example .env  # Configure environment variables
 npm start
-
-
-###💻 Frontend Setup
-```bash
-cd frontend
-npm install
-npm start
-🌐 Environment Variables
-📁 .env (Backend)
-env
-Copy
-Edit
-MONGODB_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
-RAZORPAY_KEY_ID=your_razorpay_key
-RAZORPAY_SECRET=your_razorpay_secret
-CLOUDINARY_CLOUD_NAME=your_cloud_name
-CLOUDINARY_API_KEY=your_api_key
-CLOUDINARY_API_SECRET=your_api_secret
-📜 License
-MIT License
-
-🤝 Contributing
-PRs are welcome! See CONTRIBUTING.md
-
-Made with ❤️ by [Your Name]
