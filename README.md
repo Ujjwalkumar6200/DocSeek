@@ -49,9 +49,9 @@ A Full-Stack MERN-based Telemedicine Web App with Mobile Responsiveness, Secure 
 
 ## 📸 Screenshots
 
-| Patient Dashboard | Doctor Profile | Video Consultation |
+| ### 🏠 Home Page | ### 🗓️ Appointment Page | ### 🔐 Admin Panel | 
 |-------------------|----------------|--------------------|
-| ![Patient Dashboard](path-to-image) | ![Doctor Profile](path-to-image) | ![Video Consultation](path-to-image) |
+| ![Home Page](./public/screenshots/homepage.png) | ![Appointment Page](./public/screenshots/appointment.png) | ![Admin Panel](./public/screenshots/adminpanel.png) |
 
 ---
 
